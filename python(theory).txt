@@ -1,0 +1,67 @@
+-->python is wildly used genral-purpose,hogh level programming language.it was initially designed by guido van rossum in 1991 
+and developed by python software foundation.
+
+-->it was mainly developed for emphasis on code radbility,and its syntax allows 
+programmers to express concepts in fever lines of code.
+
+-->python is a programming language that lets you work quikly and integrate systerms more effciently.
+
+-->python is an interpreted,object-oriented,high-level programming language with 
+dynamic semantics.
+
+-->its high-level built in data structures,combined with dynamic typing and dynamic 
+binding,make it very attractive for rapid application developement.
+
+-->python supports modules and packages,which encourages program modularity 
+and code reuse.
+
+-->the python interpreter and the extensive linesbrary are available in source or binary 
+form without charge for all major platforms,and can be freely distributed.
+
+-->designed to be easy to learn and master ::
+
+clean,clear syntax
+very few keywords
+
+-->highly portable ::
+
+runs almost anywhere - hogh end servers and workstations, down to windows CE 
+uses machine independent byte-code.
+
+-->extensible ::
+designed to be extensible using c/c++,
+allowing access to many libraries.
+
+-->clean syntax plus high-level data types :then c,c
+leads to fast coding(first language in many universities)
+
+-->used white space to delimit blocks 
+
+-->veriables do not need to declaration
+
+-->reduced developement time :
+code is 2-10x shorter  then c,c++ and java 
+
+-->improved program maintenance :
+code is externaly readable
+
+-->less training :
+language is very easy.
+
+-->an interpreter translates high-level instructions into an intermediate form,which it rheen executes.in contrast,
+a compiler translates high-level instructions directly into machine language.
+
+-->to have an interpreter to interpret and run programs.
+
+-->there are certain online interprers like http://codepad.org/ that can be used to start python without installing an interprer.
+
+===========================================================================
+
+print :print is an inbuilt function in python 
+using of print we can diplay appropriate message on console screen 
+
+syntax :
+
+print("message")
+
+============================================================================
