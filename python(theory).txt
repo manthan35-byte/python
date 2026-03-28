@@ -65,3 +65,71 @@ syntax :
 print("message")
 
 ============================================================================
+to cheak python is installed in my system or not :
+
+win + r press 
+
+       |
+
+       cmd 
+
+============================================================================
+# python --version 
+============================================================================
+by default whenever we install python it provide us IDLE
+
+IDLE : integrated development  learning enviroment 
+
+   it is only for learning purpose
+
+for professional developement we have to use 
+
+IDE : integrated development enviroment
+
+there are lots of IDEs available in market but python 
+official's IDE is pycharm.
+
+but pycharm advance tools is paid mode so,we use 
+visual studio code or antigravity.
+
+============================================================================
+in python there are 2 types of comment : which is represent by
+
+1)single line comment :
+
+# this is single line comment
+
+2)multi line comment :
+
+which is represent by
+
+"""
+this 
+is 
+multi line comment
+"""
+
+============================================================================
+variable :a name which can store a value 
+
+in python there is no need to daclare a variable 
+
+we can just take variablename and store value.
+
+syntax :
+
+<variablename> value;
+
+==============================================================================
+datatype : which type of value store in a variable its called datatype.
+
+there are mainly 2 types of data type.
+
+        numeric                                     characters
+           |                                             |
+ ---------------------                           -----------------
+ |                    |                          |               |
+ int                float                      chr              str(string)
+
+bool(boolen) for true and false value
+
