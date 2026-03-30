@@ -9,3 +9,4 @@ print(f"my main technology is {tech},this {tech} technology is most popular ans 
 NAME="MAN"
 SCOREE=45
 print(f"my name is{NAME},my score is{SCOREE}")
+
