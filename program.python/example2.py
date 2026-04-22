@@ -7,7 +7,7 @@ print("c/nik/python_class")
 """
 c\nik\python_class
 """
-
+0
 print("c\nik\python_class")
 
 """

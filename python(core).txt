@@ -1,0 +1,73 @@
+1) py us interpreter type.py is platform indepandend.
+
+vm :
+
+==> steps :
+=>code load
+=>verify
+=>execute output 
+
+2) py is easy
+
+3) robust lang - error/exception proper handle 
+
+==>variable :
+
+variable hold the data
+
+a=1 //int
+b="hii" //string
+c=4.0 //float
+d=true //boolean
+
+==>datatype :
+which type of data store it call datatype.
+
+1)primitive - int,float,boolean
+primitive data type are inbuilt in py
+in primitive data type  we can store ata a time.
+
+2)non primitive - string,list,tuple,dict,set
+non primitive is a user define datatype.
+
+==> list : list is a non primitive datatype that follow dynamic array algoritham bcs of this algoritham we add
+value at run time.
+
+->we can access data rendomly.
+
+->for ex: a=[1,2,3,4,5]
+print(a[3])
+
+->list is best for search operation.
+
+->there is an advantage of list we can duplicate data.
+
+->list follow insertation order.   for ex :a[1,2,3,4,]     output :[1,2,3,4]
+
+==>tuple :
+
+->tuple is a non primitive datatype that is immutable(constant).
+
+->tuple is faster then list bcs its immutable.
+
+->we can use tuple as a/c number ,drop country.
+
+==>function : collection of code that code we use for perticular task.
+
+->function provide reuseblity.
+
+->there are 2 type of function.
+
+->function is call by function name.
+
+1)inbuilt function 
+2)user define function
+
+==>method :
+
+->method provide reuseblity.
+
+->if we write code in class it is called method.
+
+->method is call by class obj.
+
