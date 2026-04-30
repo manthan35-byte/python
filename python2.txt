@@ -1,0 +1,21 @@
+1)what is python ?
+python is a mostpowerful popular,easy to understand,interprer,object oriented programming language.
+
+interpreter : which is execute line by line 
+
+compiler : which execute after source file complition
+
+c\c++:compiler type language
+
+java:supports both compiler and interpreter
+
+python:interpreter type language 
+
+-------------------------------------------------------------------
+python : python is open source and object oriented programming language which is available free of cost.
+
+------------------------------------------------------
+why we choose python :
+
+python is easy to understand,mostpowerful and popular language,python
+has huge libraries collection,python is easyly integrate with os.

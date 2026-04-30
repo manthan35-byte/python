@@ -1,5 +1,5 @@
--->python is wildly used genral-purpose,high level programming language.it was initially designed by guido van rossum in 1991 
-and developed by python software foundation.
+-->python is wildly used genral-purpose,high level programming language.it was initially designed by guido van rossum
+in 1991 and developed by python software foundation.
 
 -->it was mainly developed for emphasis on code radbility,and its syntax allows 
 programmers to express concepts in fever lines of code.
@@ -7,7 +7,7 @@ programmers to express concepts in fever lines of code.
 -->python is a programming language that lets you work quikly and integrate systerms more effciently.
 
 -->python is an interpreted,object-oriented,high-level programming language with 
-dynamic semantics.
+dynamic semantics(we don't need to define datatype if we create variable).
 
 -->its high-level built in data structures,combined with dynamic typing and dynamic 
 binding,make it very attractive for rapid application developement.
@@ -16,7 +16,7 @@ binding,make it very attractive for rapid application developement.
 and code reuse.
 
 -->the python interpreter and the extensive libraries are available in source or binary 
-form without charge for all major platforms,and can be freely distributed.
+form without charge for all major platforms,and can be freely distributed. 
 
 -->designed to be easy to learn and master ::
 
@@ -34,7 +34,7 @@ allowing access to many libraries.
 
 -->clean syntax plus high-level data types :then c,c
 leads to fast coding(first language in many universities)
-
+(1 lac)
 -->used white space to delimit blocks 
 
 -->veriables do not need to declaration
@@ -248,3 +248,44 @@ else:
 match statement 
 
 in python match 
+
+name = []
+name.append("Rahul")
+name.append("Aman")
+name.append("Priya")
+name.append("Neha")
+name.append("Karan")
+print(name)
+
+print("-------------------------------------------------------------------------------------------------------")
+
+numbers = [10, 20, 30, 40]
+numbers.insert(2, 100)
+print("Insert 100 at index 2:", numbers)
+
+print("-------------------------------------------------------------------------------------------------------")
+
+fruits = ["apple", "banana", "mango"]
+fruits.remove("apple")
+print("After removing apple:", fruits)
+
+print("-------------------------------------------------------------------------------------------------------")
+
+list1 = [1, 2, 3, 4]
+list1.pop()
+print("After pop last:", list1)
+
+print("-------------------------------------------------------------------------------------------------------")
+
+list2 = [10, 20, 30, 40]
+list2.pop(1)
+print("After pop index 1:", list2)
+
+print("-------------------------------------------------------------------------------------------------------")
+
+a = [1, 2, 3]
+a.extend([4, 5, 6])
+print("Extend:", a)
+
+print("-------------------------------------------------------------------------------------------------------")
+
