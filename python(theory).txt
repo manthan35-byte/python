@@ -25,7 +25,7 @@ very few keywords
 
 -->highly portable ::
 
-runs almost anywhere - hogh end servers and workstations, down to windows CE 
+runs almost anywhere - high end servers and workstations, down to windows CE 
 uses machine independent byte-code.
 
 -->extensible ::
@@ -34,7 +34,7 @@ allowing access to many libraries.
 
 -->clean syntax plus high-level data types :then c,c
 leads to fast coding(first language in many universities)
-(1 lac)
+
 -->used white space to delimit blocks 
 
 -->veriables do not need to declaration

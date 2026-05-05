@@ -1,4 +1,4 @@
-1) py us interpreter type.py is platform indepandend.
+1) py is interpreter type.py is platform indepandend.
 
 vm :
 

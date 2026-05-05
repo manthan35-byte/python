@@ -1,4 +1,4 @@
-1)what is python ?
+-->what is python ?
 python is a mostpowerful popular,easy to understand,interprer,object oriented programming language.
 
 interpreter : which is execute line by line 
@@ -11,11 +11,113 @@ java:supports both compiler and interpreter
 
 python:interpreter type language 
 
--------------------------------------------------------------------
-python : python is open source and object oriented programming language which is available free of cost.
+-------------------------------------------------------------------------------------
+python : python is open source and object oriented programming language which
+is available free of cost.
 
-------------------------------------------------------
+-------------------------------------------------------------------------------------
 why we choose python :
 
 python is easy to understand,mostpowerful and popular language,python
 has huge libraries collection,python is easyly integrate with os.
+-->python is wildly used genral-purpose,high level programming language.
+it was initially designed by guido van rossum in 1991 and developed by 
+python software foundation.
+
+-->it was mainly developed for emphasis on code radbility,and its syntax allows 
+programmers to express concepts in fever lines of code.
+
+-->python is a programming language that lets you work quikly and integrate
+systerms more effciently.
+
+-->python is an interpreted,object-oriented,high-level programming language with 
+dynamic semantics(we don't need to define datatype if we create variable).
+
+-->its high-level built in data structures,combined with dynamic typing and dynamic 
+binding,make it very attractive for rapid application developement.
+
+-->python supports modules and packages,which encourages program modularity 
+and code reuse.
+
+-->the python interpreter and the extensive libraries are available in source or binary 
+form without charge for all major platforms,and can be freely distributed. 
+
+-->designed to be easy to learn and master :
+
+clean,clear syntax
+very few keywords
+
+-->highly portable :
+
+runs almost anywhere - high end servers and workstations, down to windows CE 
+uses machine independent byte-code.
+
+-->extensible :
+designed to be extensible using c/c++,
+allowing access to many libraries.
+
+-->clean syntax plus high-level data types :then c,c
+leads to fast coding(first language in many universities).
+
+-->used white space to delimit blocks.
+
+-->veriables do not need to declaration.
+
+-->reduced developement time :
+code is 2-10x shorter  then c,c++ and java.
+
+-->improved program maintenance :
+code is externaly readable.
+
+-->less trining :
+language is very easy to learn.
+
+-->an interpreter translates high level instructions into an intermediate form,
+which it then execute.in contrast,a compiler translates high level instructions 
+directly into machine language.
+
+-->to have an interpreter to interpret and run program.
+
+-->there are certain online interpreters like http://codeped.org/ that can be 
+used to start python without installing an interpreter.
+
+-------------------------------------------------------------------------------------
+to cheak python is installed or not ?
+
+-> win + r
+
+->cmd 
+
+-># python --version
+
+-------------------------------------------------------------------------------------
+IDLE : integrated developement learning enviroment 
+
+->for learning purpose we use in school to teachig students
+
+note : but there are lots of lssues with IDLE bcs its create saprate interface
+to show output 
+
+-------------------------------------------------------------------------------------
+IDE :  integrated developement enviroment
+
+->there are many IDEs are available for developement purpose in market for python
+e.g. pycharm(paid mode)
+
+->insted of pycharm we use VScode or antigravity.
+
+-------------------------------------------------------------------------------------
+-->cooments : cooments are ignore by interpreter,which is not execute 
+
+->there are 2 types of cooment :
+
+1)single line :
+
+    which is represent by #
+
+2)multi line :
+
+    which is represent by triple quotes
+           """
+
+-------------------------------------------------------------------------------------
